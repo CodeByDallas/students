@@ -1,0 +1,14 @@
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\bin\Debug\net8.0\students.exe
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\bin\Debug\net8.0\students.deps.json
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\bin\Debug\net8.0\students.runtimeconfig.json
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\bin\Debug\net8.0\students.dll
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\bin\Debug\net8.0\students.pdb
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\students.AssemblyInfoInputs.cache
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\students.AssemblyInfo.cs
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\students.csproj.CoreCompileInputs.cache
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\students.dll
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\refint\students.dll
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\students.pdb
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\students.genruntimeconfig.cache
+C:\Users\dalla\OneDrive\Desktop\c#_students\students\obj\Debug\net8.0\ref\students.dll
